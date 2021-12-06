@@ -54,9 +54,6 @@
   },
   "@react-native-community/bob": {
     "source": "src",
-    "output": "lib",
-    "targets": [
-      "typescript"
-    ]
+    "output": "lib"
   }
 }

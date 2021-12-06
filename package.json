@@ -54,6 +54,9 @@
   },
   "@react-native-community/bob": {
     "source": "src",
-    "output": "lib"
+    "output": "lib",
+    "targets": [
+      "module"
+    ]
   }
 }

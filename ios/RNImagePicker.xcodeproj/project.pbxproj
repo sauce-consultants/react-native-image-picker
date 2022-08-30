@@ -8,7 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		014A3B6A1C6CF34500B6D375 /* ImagePickerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 014A3B691C6CF34500B6D375 /* ImagePickerManager.m */; };
-		95A4B6F0275EC6CD00082CCB /* ImagePickerUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C1D0CF212509FD5E00304E19 /* ImagePickerUtils.m */; };
+		958CBBB328BE2A2C00C60D66 /* ImagePickerManager.m in CopyFiles */ = {isa = PBXBuildFile; fileRef = 014A3B691C6CF34500B6D375 /* ImagePickerManager.m */; };
+		958CBBB428BE2B9500C60D66 /* ImagePickerUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C1D0CF212509FD5E00304E19 /* ImagePickerUtils.m */; };
+		95A4B6F0275EC6CD00082CCB /* ImagePickerUtils.m in CopyFiles */ = {isa = PBXBuildFile; fileRef = C1D0CF212509FD5E00304E19 /* ImagePickerUtils.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -18,6 +20,8 @@
 			dstPath = "include/$(PRODUCT_NAME)";
 			dstSubfolderSpec = 16;
 			files = (
+					95A4B6F0275EC6CD00082CCB /* ImagePickerUtils.m in CopyFiles */,
+					958CBBB328BE2A2C00C60D66 /* ImagePickerManager.m in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
